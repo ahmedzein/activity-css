@@ -1,0 +1,35 @@
+html {
+    font-family: Georgia, serif;
+}
+
+body {
+    background-color: #D0D0D0
+}
+p,
+li,
+ol,
+ul {
+    font-family: Georgia, serif;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+
+li { color: #F00;
+}
+    
+ul { color: #0000FF
+}
+
+li,
+ul {
+    background-color: #FFFF00
+}
+
+hr {
+    border-top: 4px solid #FF0000;
+    border-bottom: 4px solid #0000FF;
+}
